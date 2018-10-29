@@ -1,0 +1,6 @@
+TNiaBuK5XVuGi4aEcMA1q3vHphAYR3JO
+
+http://www.mapquestapi.com/geocoding/v1/address?key=TNiaBuK5XVuGi4aEcMA1q3vHphAYR3JO&location=1600+Pennsylvania+Ave+NW,Washington,DC,20500
+
+openweather api
+959ced4532cb46160e081cf1d9bc50a0
